@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Debug\FundamentalsComputerEngineering.exe.config
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Debug\FundamentalsComputerEngineering.exe
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Debug\FundamentalsComputerEngineering.pdb
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.Form1.resources
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.Properties.Resources.resources
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.exe
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Debug\FundamentalsComputerEngineering.pdb
