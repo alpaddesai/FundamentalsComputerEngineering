@@ -4,6 +4,6 @@ The project provides an overview of Fundamentals of Computer Engineering
 
 Confidential information is not displayed.
 
-Please download the executable in https://github.com/alpaddesai/PCBDesignProcess/releases for details.
+Please download the executable in https://github.com/alpaddesai/FundamentalsComputerEngineering/releases  for details.
 
 Images are custom.
