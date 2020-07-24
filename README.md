@@ -9,7 +9,7 @@ Please download the executable in https://github.com/alpaddesai/FundamentalsComp
 Images are custom.
 
 ## Fundamentals of Computer Engineering
-![image](Fundamentalsmicroprocessors.jpg)
+![image](Fundamentalsmicroprocessors.png)
 
 ## Basic digital circuits and microprocessor
 ![image](uProcessorSmallerImageI.jpg)
