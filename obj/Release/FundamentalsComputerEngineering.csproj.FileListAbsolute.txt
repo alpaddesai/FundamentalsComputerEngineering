@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Release\FundamentalsComputerEngineering.exe.config
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Release\FundamentalsComputerEngineering.exe
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Release\FundamentalsComputerEngineering.pdb
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.Form1.resources
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.Properties.Resources.resources
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.exe
+C:\Users\alpag\source\repos\FundamentalsComputerEngineering\FundamentalsComputerEngineering\obj\Release\FundamentalsComputerEngineering.pdb
