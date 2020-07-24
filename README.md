@@ -14,5 +14,5 @@ Images are custom.
 ## Basic digital circuits and microprocessor
 ![image](uProcessorSmallerImageI.jpg)
 
-
 ## Technical Project Management
+![image](TechnicalProjectManagerExperience.png)
