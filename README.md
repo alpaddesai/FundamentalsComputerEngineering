@@ -16,3 +16,5 @@ Images are custom.
 
 ## Technical Project Management
 ![image](TechnicalProjectManagerExperience.png)
+
+Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming and https://github.com/alpaddesai/MicroControllerDrivers for details.
