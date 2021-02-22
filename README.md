@@ -17,4 +17,7 @@ Images are custom.
 ## Technical Project Management
 ![image](TechnicalProjectManagerExperience.png)
 
+## Interest
+![image](image.png)
+
 Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming , https://github.com/alpaddesai/DigitalLogicHDL
