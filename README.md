@@ -18,6 +18,8 @@ Images are custom.
 ![image](TechnicalProjectManagerExperience.png)
 
 ## Interest
+![image](image1.png)
+
 ![image](image.png)
 
 ![image](image10.jpg)
