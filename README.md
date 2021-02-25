@@ -21,4 +21,4 @@ Images are custom.
 
 ![image](image10.jpg)
 
-Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming and https://github.com/alpaddesai/DigitalLogicHDL
+Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming , https://github.com/alpaddesai/ObjectOrientedDesignProgramming and https://github.com/alpaddesai/DigitalLogicHDL
