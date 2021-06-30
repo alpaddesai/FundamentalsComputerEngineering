@@ -14,6 +14,9 @@ Images are custom.
 ## Basic digital circuits and microprocessor
 ![image](uProcessorSmallerImageI.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.png)
 
