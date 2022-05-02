@@ -17,7 +17,4 @@ Images are custom.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Server Client Java Socket Programming
-![image](ServerClientImage.jpg)
-
 Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming , https://github.com/alpaddesai/ObjectOrientedDesignProgramming and https://github.com/alpaddesai/DigitalLogicHDL
