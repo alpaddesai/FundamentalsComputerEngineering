@@ -17,4 +17,6 @@ Images are custom.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming , https://github.com/alpaddesai/ObjectOrientedDesignProgramming and https://github.com/alpaddesai/DigitalLogicHDL
