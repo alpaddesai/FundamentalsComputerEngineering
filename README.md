@@ -19,4 +19,4 @@ Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Please reference https://github.com/alpaddesai/IntroductionToMachineLanguageProgramming , https://github.com/alpaddesai/ObjectOrientedDesignProgramming and https://github.com/alpaddesai/DigitalLogicHDL
+Please reference https://github.com/alpaddesai/DesignEngineering
