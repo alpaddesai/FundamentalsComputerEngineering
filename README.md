@@ -12,9 +12,6 @@ Images are custom.
 ![image](Fundamentalsmicroprocessors.png)
 ![image](CombinationalCircuits.png)
 
-## Basic digital circuits and microprocessor
-![image](uProcessorSmallerImageI.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
