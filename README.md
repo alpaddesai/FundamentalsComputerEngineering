@@ -10,6 +10,7 @@ Images are custom.
 
 ## Fundamentals of Computer Engineering
 ![image](Fundamentalsmicroprocessors.png)
+![image](CombinationalCircuits.png)
 
 ## Basic digital circuits and microprocessor
 ![image](uProcessorSmallerImageI.jpg)
